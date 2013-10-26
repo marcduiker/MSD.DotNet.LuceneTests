@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<log>
+  <entry id="1">
+    <date>1-10-2013</date>
+    <component>A</component>
+    <severity>Error</severity>
+    <message>Error message A.</message>
+  </entry>
+  <entry id="2">
+    <date>30-12-2013</date>
+    <component>B</component>
+    <severity>Warning</severity>
+    <message>Error message B.</message>
+  </entry>
+</log>
