@@ -11,7 +11,7 @@ namespace MSD.DotNet.Lucene.UnitTests
     public class DocumentBuilderTests
     {
         [Test]
-        public void Build_Document_ReturnsNonNull()
+        public void Build_Document_ReturnsDocument()
         {
             // Arrange
             var builder = GetDocumentBuilder();
